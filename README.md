@@ -1,5 +1,7 @@
 ## Bach Drugs: Elevating Your Server's AFK Farming Experience 🌿💊
 
+# [My Discord](https://discord.gg/JZqWY32Uzz)
+
 ### Preview
 
 - [YouTube](https://youtu.be/juD9Z5-ZrGY)
@@ -73,6 +75,3 @@ Follow these steps to integrate Bach Drugs into your server:
 		close = true,
 	},
 ```
-
-
-# [My Discord](https://discord.gg/JZqWY32Uzz)
