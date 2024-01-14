@@ -1,6 +1,6 @@
 ## Bach Drugs: Elevating Your Server's AFK Farming Experience 🌿💊
 
-### Priview
+### Preview
 
 - [YouTube](https://youtu.be/juD9Z5-ZrGY)
 
