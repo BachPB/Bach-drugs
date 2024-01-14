@@ -1,0 +1,11 @@
+{
+  "farmer_label": "Farming...",
+  "farm_label": "Farm...",
+  "cokeproc_label": "Transform Cocaine",
+  "procMeth_label": "Transform Meth",
+  "procWeed_label": "Transform Hashblade",
+  "stop_press_x": "Press X to stop",
+  "cancelled": "Cancelled",
+  "not_enough_items": "You need at least %s %s to continue.",
+  "not_enough_space": "You don't have enough space..."
+}
