@@ -1,5 +1,9 @@
 ## Bach Drugs: Elevating Your Server's AFK Farming Experience 🌿💊
 
+### Priview
+
+- [YouTube](https://youtu.be/juD9Z5-ZrGY)
+
 ### Introduction
 
 Welcome to Bach Drugs, the ultimate solution for server administrators who want to take their AFK farming experience to the next level! This easy-to-use drug system is designed to seamlessly integrate with your server, providing a thrilling new dimension to narcotics.
