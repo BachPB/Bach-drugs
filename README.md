@@ -73,3 +73,6 @@ Follow these steps to integrate Bach Drugs into your server:
 		close = true,
 	},
 ```
+
+
+# [Discord](https://discord.gg/JZqWY32Uzz)
