@@ -3,7 +3,7 @@ lib.locale()
 function Repeat(event)
 	Wait(10)
 	if Config.MiniGame then
-		local success = lib.skillCheck({ "easy" }, { "h" })
+		local success = lib.skillCheck({ Config.MiniGameDIF }, { Config.MiniGameKEY })
 		if success then
 			TriggerEvent(tostring(event))
 		else

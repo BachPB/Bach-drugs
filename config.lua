@@ -1,6 +1,7 @@
 Config = {}
 
 Config.MiniGame = true
+Config.MiniGameKEY = "h"
 Config.MiniGameDIF = "easy" --[[
 	Preset difficulties:
 		'easy' - { areaSize: 50, speedMultiplier: 1 }
