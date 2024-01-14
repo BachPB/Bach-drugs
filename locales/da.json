@@ -1,0 +1,11 @@
+{
+  "farmer_label": "Farmer...",
+  "farm_label": "Farm...",
+  "cokeproc_label": "Omdan Kokain",
+  "procMeth_label": "Omdan Meth",
+  "procWeed_label": "Omdan Hashblade",
+  "stop_press_x": "Tryk X for at stoppe",
+  "cancelled": "Annulleret",
+  "not_enough_items": "Du skal bruge mindst %s %s for at fortsætte.",
+  "not_enough_space": "Du har ikke plads..."
+}
