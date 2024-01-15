@@ -1,13 +1,9 @@
 Config = {}
 
+Config.Method = "radial" -- target or radial
 Config.MiniGame = true
 Config.MiniGameKEY = "h"
-Config.MiniGameDIF = "easy" --[[
-	Preset difficulties:
-		'easy' - { areaSize: 50, speedMultiplier: 1 }
-		'medium' - { areaSize: 40, speedMultiplier: 1.5 }
-		'hard' - { areaSize: 25, speedMultiplier: 1.75 }
-]]
+Config.MiniGameDIF = "easy" -- "easy" "medium" "hard"
 Config.BagName = "small_bag"
 
 Config.Coke = {
@@ -26,7 +22,7 @@ Config.Coke = {
 Config.Meth = {
 	FarmModtag = 8, -- Hvor mange du modtager
 	FarmingTid = math.random(15, 15), -- Sekunder
-	MarkCoords = vector3(599.7138, -423.5928, 16.6237),
+	MarkCoords = vector3(1659.9749, 4955.9995, 42.1820),
 	ItemFarm = "meth_leaf",
 	-- Omdan
 	OmdanGiv = 4,
