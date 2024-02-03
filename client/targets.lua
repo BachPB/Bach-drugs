@@ -1,5 +1,5 @@
 Citizen.CreateThread(function()
-	if not Config.Method == "target" then
+	if Config.Method ~= "target" then
 		return
 	end
 	-- KOKAIN
