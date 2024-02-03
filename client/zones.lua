@@ -1,4 +1,4 @@
-if not Config.Method == "radial" then
+if Config.Method ~= "radial" then
 	return
 end
 
